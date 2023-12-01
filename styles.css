@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(145, 54, 2);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    
+}
+table {
+    width: 600px;
+    margin: auto;
+    background-image: radial-gradient(rgb(197, 139, 205), rgb(199, 100, 212), rgb(73, 0, 67));
+    border-collapse: collapse;
+    align-content: center;
+    border: 2px solid black;
+}
+
+caption {
+    caption-side: bottom;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+td img {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    display: block;
+    margin: auto;
+}
+
+
+ol {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+ol li {
+    margin-bottom: 10px;
+    margin-left: 15px;
+    color: black;
+}
+
+.order li a {
+    color: black;
+}
+
+/* Style the links */
+a {
+    color: white;
+}
+
+/* Vertically center the text */
+td {
+    vertical-align: middle;
+}
+
+.name {
+    border: 4px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.sites {
+    border: 4px solid black;
+    color: rgb(0, 0, 0);
+}
+
+table, td, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
