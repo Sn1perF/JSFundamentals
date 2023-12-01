@@ -1,0 +1,14 @@
+#results {
+    display:block;
+    color:orange;
+    border:solid;
+    border-color:purple;
+    background-color: palevioletred;
+  }
+  h1{
+    color:purple;
+    border: solid;
+    border-color:black;
+    background-color: black;
+    
+  }
