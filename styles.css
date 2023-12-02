@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(145, 54, 2);
+    background-color: rgb(0, 128, 0);
     color: white;
     font-family: Arial, sans-serif;
 }
@@ -12,7 +12,7 @@ header {
 table {
     width: 600px;
     margin: auto;
-    background-image: radial-gradient(rgb(197, 139, 205), rgb(199, 100, 212), rgb(73, 0, 67));
+    background-image: radial-gradient(rgb(9, 121, 105), rgb(9, 121, 105), rgb(9, 121, 105));
     border-collapse: collapse;
     align-content: center;
     border: 2px solid black;
